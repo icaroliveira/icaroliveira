@@ -1,7 +1,7 @@
 ## Olá! Me chamo Ícaro 👋
 
  <div>
-  <img height="180" width="200" src="https://github-readme-stats.vercel.app/api?username=icaroliveira&show_icons=true&theme=radical&show_icons=true&count_private=true" style="float:left;">
+  <img height="180" width="500" src="https://github-readme-stats.vercel.app/api?username=icaroliveira&show_icons=true&theme=radical&show_icons=true&count_private=true" style="float:left;">
   <img height="120" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroliveira&layout=compact&theme=radical" style="float:right;">
 </div>
 
