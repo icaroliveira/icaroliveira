@@ -5,7 +5,7 @@
   <img height="120" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroliveira&&theme=gotham&layout=compact" style="float:right;">
 </div>
 
- ## Tecnologiar que uso no dia a dia.
+ ## Tecnologias que uso no dia a dia.
  
 <div style="display: inline_block">
 <img aling="center" reight="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg'>
