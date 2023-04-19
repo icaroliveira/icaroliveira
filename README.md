@@ -1,11 +1,13 @@
 ## Olá! Me chamo Ícaro 👋
 
-
-<div>
-<a href="https://github.com/icaroliveira/icaroliveira">
-<img height="230" width="500" src="https://github-readme-stats.vercel.app/api?username=icaroliveira&show_icons=true&theme=radical&show_icons=true&count_private=true"/>
-<img height="150" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroliveira&layout=compact&theme=radical"/>
+ <div>
+  <img height="230" width="500" src="https://github-readme-stats.vercel.app/api?username=icaroliveira&show_icons=true&theme=radical&show_icons=true&count_private=true" style="float:left;">
+  <img height="230" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroliveira&layout=compact&theme=radical" style="float:right;">
 </div>
+
+ 
+ 
+ 
 
 <div style="display: inline_block">
 <img aling="center" reight="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg'>
