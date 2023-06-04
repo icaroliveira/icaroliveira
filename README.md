@@ -11,6 +11,7 @@
 <img aling="center" reight="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg'>
 <img aling="center" reight="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg'>
 <img aling="center" reight="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg'>
+<img aling="center" reight="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original.svg'>
 </div>
 
 ##
